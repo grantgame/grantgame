@@ -1,0 +1,19 @@
+@font-face {
+    font-family: break;
+    src: url(../fonts/Break.ttf);
+}
+
+@font-face {
+    font-family: infinLight;
+    src: url(../fonts/infinity/MADEINFINITY\ PERSONALUSE-Light.otf);
+}
+
+@font-face {
+    font-family: infinheavy;
+    src: url(../fonts/infinity/MADEINFINITY\ PERSONALUSE-Black.otf);
+}
+
+@font-face {
+    font-family: browser;
+    src: url(../fonts/Browser-Italic.ttf);
+}
