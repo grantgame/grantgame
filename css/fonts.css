@@ -22,3 +22,8 @@
     font-family: bright;
     src: url(../fonts/Brightness.ttf);
 }
+
+@font-face {
+    font-family: brightly;
+    src: url(../fonts/BrightnessInverted.ttf);
+}
