@@ -17,3 +17,8 @@
     font-family: browser;
     src: url(../fonts/Browser-Italic.ttf);
 }
+
+@font-face {
+    font-family: bright;
+    src: url(../fonts/Brightness.ttf);
+}

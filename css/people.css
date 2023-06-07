@@ -1,0 +1,46 @@
+#player{
+    font-family: bright,monospace;
+    font-size: 6em;
+}
+
+  img{
+    float:right;
+    border-radius: 100%;
+  }
+
+  #desc{
+    font-family: infinLight, monospace;
+    font-size: x-large;
+  }
+
+table, td, th{
+    border: 3px solid;
+    width:200px;
+}
+td, td{
+    padding:10px
+}
+table{
+    text-align: center;
+    /* margin: auto; */
+    font-family: infinLight, monospace;
+    padding:0px;
+    width:82%;
+}
+#level{
+    font-size:40px;
+    color:rgb(194, 63, 63)
+}
+
+#achievements{
+    font-family: bright,monospace;
+    font-size: 4em;
+}
+
+/* .person a{
+    color:black;
+    text-decoration: none;
+}
+.person a:hover{
+    color:aqua;
+} */
