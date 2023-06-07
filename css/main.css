@@ -60,7 +60,8 @@ a{
 }
 .person a{
     color:black;
-    text-decoration: none;
+    text-decoration: underline;
+    font-weight:bolder;
 }
 .person a:hover{
     color:aqua;
