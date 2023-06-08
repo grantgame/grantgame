@@ -27,3 +27,8 @@
     font-family: brightly;
     src: url(../fonts/BrightnessInverted.ttf);
 }
+
+@font-face {
+    font-family: sign;
+    src: url(../fonts/Signup.ttf);
+}
